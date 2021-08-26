@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @idowu-air 
-- 👀 I’m interested in ...
+- 👀 I’m interested in Mathematics, dance,designer and i enjoy creating designs for responsive web applications
 - 🌱 I’m currently learning C++ ,JavaScrip,	HTML/CSS,Adobe Photoshop ,Adobe Illustrator,Adobe Lightroom and python 
 - 💞️ I’m looking to collaborate on a new projects 
 - 📫 How to reach me  idowuigbinoba3@gmail.com
